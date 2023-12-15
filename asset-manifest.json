@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/css/main.15806fb6.css",
-    "main.js": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/js/main.f872fa96.js",
-    "static/media/krakenimages-376KN_ISplE-unsplash.jpg": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/media/krakenimages-376KN_ISplE-unsplash.7fecf7a78d6fb0a0d0d6.jpg",
-    "static/media/Girl2.jpg": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/media/Girl2.caf41baee93227b371ee.jpg",
-    "static/media/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/media/mohammad-rahmani-8qEB0fTe9Vw-unsplash.04e234cbab55e2db4246.jpg",
-    "static/media/React.jpg": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/media/React.0eb821afe6aef0d1c3c4.jpg",
-    "static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.d490befb6831278109a4.jpg",
-    "index.html": "/https://github.com/suchetapal3/ReactPortFolioWebsite/index.html",
-    "main.15806fb6.css.map": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/css/main.15806fb6.css.map",
-    "main.f872fa96.js.map": "/https://github.com/suchetapal3/ReactPortFolioWebsite/static/js/main.f872fa96.js.map"
+    "main.css": "/ReactPortFolioWebsite/static/css/main.15806fb6.css",
+    "main.js": "/ReactPortFolioWebsite/static/js/main.971215ea.js",
+    "static/media/krakenimages-376KN_ISplE-unsplash.jpg": "/ReactPortFolioWebsite/static/media/krakenimages-376KN_ISplE-unsplash.7fecf7a78d6fb0a0d0d6.jpg",
+    "static/media/Girl2.jpg": "/ReactPortFolioWebsite/static/media/Girl2.caf41baee93227b371ee.jpg",
+    "static/media/mohammad-rahmani-8qEB0fTe9Vw-unsplash.jpg": "/ReactPortFolioWebsite/static/media/mohammad-rahmani-8qEB0fTe9Vw-unsplash.04e234cbab55e2db4246.jpg",
+    "static/media/React.jpg": "/ReactPortFolioWebsite/static/media/React.0eb821afe6aef0d1c3c4.jpg",
+    "static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg": "/ReactPortFolioWebsite/static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.d490befb6831278109a4.jpg",
+    "index.html": "/ReactPortFolioWebsite/index.html",
+    "main.15806fb6.css.map": "/ReactPortFolioWebsite/static/css/main.15806fb6.css.map",
+    "main.971215ea.js.map": "/ReactPortFolioWebsite/static/js/main.971215ea.js.map"
   },
   "entrypoints": [
     "static/css/main.15806fb6.css",
-    "static/js/main.f872fa96.js"
+    "static/js/main.971215ea.js"
   ]
 }
